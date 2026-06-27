@@ -1,0 +1,31 @@
+OpenV6 License (Open Version Unix Version 6 "Modified")
+
+Copyright (c) 2026 Mavox-ID (Ye-A!) | DFAP! (Don't Forget All Please!)
+
+This license governs the use, copying, and modification of the OpenV6 operating system (hereinafter referred to as the Software).
+
+1. PERMITTED USE
+The Software is freely available for use, study,
+modification, and distribution for personal, educational, scientific,
+and non-commercial purposes by any individual.
+You may create your own projects and modify all files and distribute them as your own, but you must include this license and credit the original author of OpenV6 and the current repository, namely:
+
+Developer: https://ye-a.pp.ua | https://github.com/Mavox-ID
+Github Repo: https://github.com/Mavox-ID/OpenV6
+
+2. CLOSED SOURCE CODE
+Any derivative work, fork, module, or operating system using the code of this Software (in whole or in part) MUST be distributed as completely open source.
+Including this code in any proprietary (closed source) operating systems or software products is strictly PROHIBITED.
+If this is done and this project is found, it will be subject to a DMCA complaint (GitHub, website, Google, etc.).
+
+3. RESTRICTIONS FOR CORPORATIONS AND COMMERCE
+Use of this Software (or parts thereof) by legal entities for commercial purposes, as well as its sale, monetization, or use as closed cloud services without the prior written consent of the Author, is PROHIBITED.
+
+4. RETENTION OF AUTHORITY
+All copies or substantial portions of the Software must retain this copyright and license notice.
+Detailed information is already provided above in Rule 1. Simply place this license in the project where your OpenV6 fork is located and indicate the original repository and authorship (me).
+
+5. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED "AS IS," BUT READY TO WORK. NO ASSURANCE IS GIVEN THAT THE CODE IS FREE OF BUGS OR ERRORS. BUT THE AUTHOR ENDORSES THAT IT CANNOT CAUSE DAMAGE TO YOUR PROPERTY. PLEASE OBSERVE THE LICENSE. ANY VIOLATION IS PUNISHED BY THE DMCA. BE VIGILANT.
+
+GOOD LUCK USING OpenV6!
